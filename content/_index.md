@@ -1,13 +1,7 @@
 ---
 title: "Home"
-type: "_default"
-layout: "baseof"
-menu:
-    main:
-        name: Home
-        weight: 1
-        params:
-            icon: home
+type: "page"
+layout: "single"
 ---
 
 # Hi, I'm David Ruiz
