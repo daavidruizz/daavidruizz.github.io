@@ -14,6 +14,7 @@ links:
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - title: Scripts
     description: Some scripts and apps bash
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
     website: https://github.com/daavidruizz/scritps_apps
 menu:
     main: 

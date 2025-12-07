@@ -12,8 +12,6 @@ menu:
 comments: false
 ---
 
-# Hi, I'm David Ruiz
-
 **Passionate about Linux, C, firmware development, and continuously learning new technologies.**
 
 Computer Engineer graduated from the University of Málaga (2024). I have solid experience in programming, with a strong focus on languages like C and C++, which I have worked with consistently throughout my studies and in my current professional role. Additionally, I am proficient in other languages such as Python, Java, and JavaScript.
