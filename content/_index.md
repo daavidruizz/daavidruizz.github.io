@@ -1,6 +1,7 @@
 ---
-title: Home
-layout: "homepage" 
+title: "Home"
+type: "_default"
+layout: "baseof"
 menu:
     main:
         name: Home
@@ -21,7 +22,7 @@ Currently working as a **Software Engineer at Minsait**, where I develop softwar
 
 **Languages:** C/C++, Python, Java, SQL.  
 **Systems:** Linux/Unix, FreeRTOS, Embedded Systems  
-**Protocols:** MQTT, TCP/IP, SSL/TLS.
+**Protocols:** MQTT, TCP/IP, SSL/TLS.  
 **Tools:** Git, Apache, MySQL, Android Development, SubVersion
 
 ## Quick Links
