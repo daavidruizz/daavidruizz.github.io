@@ -11,6 +11,9 @@ links:
     description: Portable, simple, and thread-safe logger for C/C++ projects.
     website: https://github.com/daavidruizz/rzLogger
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: Scripts
+    description: Some scripts and apps bash
+    website: https://github.com/daavidruizz/scritps_apps
 menu:
     main: 
         weight: 3
@@ -19,13 +22,11 @@ menu:
 comments: false
 ---
 
-# My GitHub Repositories
-
 Welcome to my code portfolio! Here you'll find a selection of my most notable projects, ranging from embedded systems to utility tools.
 
-## Featured Project: PioTGuard IoT Surveillance System
+## PioTGuard Project: IoT Surveillance System
 
-### Final Degree Project - Complete Security Monitoring Solution (UMA)
+ Final Degree Project - Complete Security Monitoring Solution (UMA)
 
 This comprehensive surveillance system demonstrates end-to-end IoT development, combining embedded systems, server infrastructure, and mobile applications for real-time security monitoring.
 
@@ -60,10 +61,10 @@ A complete security monitoring solution designed for restaurants and commercial 
 - Push notifications for anomaly detection
 - Secure authenticated access
 
-**📄 [Download Complete Documentation (PDF)](https://github.com/daavidruizz/PioTGuard-Docs/raw/main/PioTGuard-Documentation.pdf)**
+**[Download Complete Documentation (PDF)](https://github.com/daavidruizz/PioTGuard-Sensors/blob/main/TFG_PIOTGUARD.pdf)**
 
-**🏆 Technologies Used:** Raspberry Pi, ESP32, Android, MQTT, Apache, SSL/TLS, mTLS, GStreamer, MariaDB, IoT, FreeRTOS
+**Technologies Used:** Raspberry Pi, ESP32, Android, MQTT, Apache, SSL/TLS, mTLS, GStreamer, MariaDB, IoT, FreeRTOS
 
 ---
 
-## 🚀 Other Projects
+## Other Projects:

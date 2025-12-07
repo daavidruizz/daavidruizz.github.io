@@ -1,6 +1,6 @@
 ---
 title: About Me
-description: Learn more about my background, skills, and professional journey
+description:
 slug: about
 date: 2024-12-07
 image: assets/img/linux.jpeg
@@ -100,7 +100,3 @@ My adventure in technology began during my studies at the University of Málaga,
 - **LinkedIn:** [linkedin.com/in/david-ruiz-luque](https://linkedin.com/in/david-ruiz-luque)
 - **Location:** Málaga, Spain
 - **Currently:** Software Engineer at Minsait
-
----
-
-> *"The best way to predict the future is to create it."*
