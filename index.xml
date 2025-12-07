@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on David Ruiz</title><link>https://daavidruizz.github.io/</link><description>Recent content in Home on David Ruiz</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://daavidruizz.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://daavidruizz.github.io/about/</link><pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate><guid>https://daavidruizz.github.io/about/</guid><description>&lt;p&gt;&lt;strong&gt;Passionate about Linux, C, firmware development, and continuously learning new technologies.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Computer Engineer graduated from the University of Málaga (2024). I have solid experience in programming, with a strong focus on languages like C and C++, which I have worked with consistently throughout my studies and in my current professional role. Additionally, I am proficient in other languages such as Python, Java, and JavaScript.&lt;/p&gt;
+&lt;p&gt;I am highly familiar with Linux/Unix systems and Bash scripting, and I have a strong interest in embedded systems development, firmware design, and IoT solutions. I have hands-on experience with TCP-based protocols like MQTT and have worked with FreeRTOS, along with other platforms and technologies such as Apache, MySQL, and Android development.&lt;/p&gt;
+&lt;p&gt;Beyond my technical expertise, I am a highly sociable and collaborative individual who thrives in team environments and enjoys tackling complex challenges through innovative solutions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Currently exploring&lt;/strong&gt;: Advanced embedded systems, open-source contributions, and emerging IoT technologies.&lt;/p&gt;
+&lt;h2 id="my-journey"&gt;My Journey
+&lt;/h2&gt;&lt;p&gt;My adventure in technology began during my studies at the University of Málaga, where I discovered my passion for embedded systems and low-level programming. What started as curiosity about how hardware and software interact has grown into comprehensive expertise in system-level development.&lt;/p&gt;
+&lt;h3 id="background"&gt;Background
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Education:&lt;/strong&gt; Computer Engineering, University of Málaga (2019-2024)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; Málaga, Andalusia, Spain&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Current Role:&lt;/strong&gt; Software Engineer at Minsait (June 2024 - Present)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Currently Learning:&lt;/strong&gt; Advanced embedded systems, open-source contributions, and emerging IoT technologies&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Spanish (Native), English (B1 - Cambridge Certified)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="professional-experience"&gt;Professional Experience
+&lt;/h2&gt;&lt;h3 id="software-engineer--minsait"&gt;Software Engineer @ Minsait
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;June 2024 - Present&lt;/strong&gt; | Full-time | Hybrid | Málaga, Spain&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Software development with focus on Linux environments&lt;/li&gt;
+&lt;li&gt;Embedded systems programming using C/C++&lt;/li&gt;
+&lt;li&gt;Team collaboration on complex technical projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="intern--minsait"&gt;Intern @ Minsait
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;April 2024 - June 2024&lt;/strong&gt; | Internship | Málaga, Spain&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Software development and team collaboration&lt;/li&gt;
+&lt;li&gt;Practical application of university knowledge in real projects&lt;/li&gt;
+&lt;li&gt;Transition to full-time role upon successful completion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="intern--visiontir"&gt;Intern @ VisionTIR
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;July 2022 - October 2022&lt;/strong&gt; | Internship | Málaga, Spain&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Embedded software development&lt;/li&gt;
+&lt;li&gt;Hardware-software integration projects&lt;/li&gt;
+&lt;li&gt;Experience with embedded systems and IoT solutions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="technical-skills"&gt;Technical Skills
+&lt;/h2&gt;&lt;h3 id="core-programming-languages"&gt;Core Programming Languages
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;C/C++&lt;/strong&gt; - Advanced level.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Java&lt;/strong&gt; - Object-oriented programming and enterprise applications.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bash&lt;/strong&gt; - Linux/Unix system administration and automation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SQL&lt;/strong&gt; - Experience on DB, SQL queries.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; - Scripting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="embedded-systems--hardware"&gt;Embedded Systems &amp;amp; Hardware
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Embedded Systems&lt;/strong&gt; - Firmware development and hardware integration&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;FreeRTOS&lt;/strong&gt; - Real-time operating system for microcontrollers&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;IoT Solutions&lt;/strong&gt; - Connected device development&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;MQTT Protocol&lt;/strong&gt; - TCP-based communication for IoT devices&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="systems--tools"&gt;Systems &amp;amp; Tools
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Linux/Unix&lt;/strong&gt; - System administration and development&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Version Control&lt;/strong&gt; - Git, GitHub, Subversion&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Databases&lt;/strong&gt; - MySQL, experience with data management&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Web Technologies&lt;/strong&gt; - Apache server configuration&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Android&lt;/strong&gt; - Mobile application development basics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="development-practices"&gt;Development Practices
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Software Development&lt;/strong&gt; - Full development lifecycle experience&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Team Collaboration&lt;/strong&gt; - Strong teamwork and communication skills&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Problem Solving&lt;/strong&gt; - Analytical approach to complex technical challenges&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clean Code&lt;/strong&gt; - Writing maintainable, scalable, and well-documented code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="lets-connect"&gt;Let&amp;rsquo;s Connect!
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a class="link" href="https://linkedin.com/in/david-ruiz-luque" target="_blank" rel="noopener"
+&gt;linkedin.com/in/david-ruiz-luque&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; Málaga, Spain&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Currently:&lt;/strong&gt; Software Engineer at Minsait&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Home</title><link>https://daavidruizz.github.io/p/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://daavidruizz.github.io/p/home/</guid><description>&lt;h1 id="hi-im-david-ruiz"&gt;Hi, I&amp;rsquo;m David Ruiz
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Computer Engineer | C &amp;amp; C++ Developer | IoT &amp;amp; Embedded Systems Enthusiast&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Welcome to my digital portfolio! I&amp;rsquo;m a passionate software engineer from Málaga, Spain, specializing in C and C++ development.&lt;/p&gt;
+&lt;p&gt;Currently working as a &lt;strong&gt;Software Engineer at Minsait&lt;/strong&gt;, where I develop software solutions using &lt;strong&gt;C/C++&lt;/strong&gt; on &lt;strong&gt;Linux and Windows environments&lt;/strong&gt;. My expertise spans from low-level programming to system integration, with a strong focus on &lt;strong&gt;IoT systems&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id="core-technologies"&gt;Core Technologies
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Languages:&lt;/strong&gt; C/C++, Python, Java, SQL.&lt;br&gt;
+&lt;strong&gt;Systems:&lt;/strong&gt; Linux/Unix, FreeRTOS, Embedded Systems&lt;br&gt;
+&lt;strong&gt;Protocols:&lt;/strong&gt; MQTT, TCP/IP, SSL/TLS.&lt;br&gt;
+&lt;strong&gt;Tools:&lt;/strong&gt; Git, Apache, MySQL, Android Development, SubVersion&lt;/p&gt;
+&lt;h2 id="quick-links"&gt;Quick Links
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://daavidruizz.github.io/about" &gt;About Me&lt;/a&gt; - Learn about my journey and experience&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://daavidruizz.github.io/repositories" &gt;My Repositories&lt;/a&gt; - Explore my open-source projects&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://linkedin.com/in/david-ruiz-luque" target="_blank" rel="noopener"
+&gt;LinkedIn&lt;/a&gt; - Professional profile&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Based in Málaga, Andalusia, Spain&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Links</title><link>https://daavidruizz.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://daavidruizz.github.io/links/</guid><description>&lt;h2 id="email"&gt;Email: &lt;a class="link" href="mailto:daavidruiz01@outlook.com" &gt;daavidruiz01@outlook.com&lt;/a&gt;
+&lt;/h2&gt;&lt;!-- Las tarjetas aparecen automáticamente aquí --&gt;</description></item><item><title>My Repositories</title><link>https://daavidruizz.github.io/repositories/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://daavidruizz.github.io/repositories/</guid><description>&lt;p&gt;Welcome to my code portfolio! Here you&amp;rsquo;ll find a selection of my most notable projects, ranging from embedded systems to utility tools.&lt;/p&gt;
+&lt;h2 id="piotguard-project-iot-surveillance-system"&gt;PioTGuard Project: IoT Surveillance System
+&lt;/h2&gt;&lt;p&gt;Final Degree Project - Complete Security Monitoring Solution (UMA)&lt;/p&gt;
+&lt;p&gt;This comprehensive surveillance system demonstrates end-to-end IoT development, combining embedded systems, server infrastructure, and mobile applications for real-time security monitoring.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;System Overview:&lt;/strong&gt;
+A complete security monitoring solution designed for restaurants and commercial spaces, offering protection against both external threats and internal risks through intelligent sensor monitoring and real-time video surveillance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;System Components:&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Component&lt;/th&gt;
+&lt;th&gt;Technology Stack&lt;/th&gt;
+&lt;th&gt;Functionality&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a class="link" href="https://github.com/daavidruizz/PioTGuard-Sensors" target="_blank" rel="noopener"
+&gt;ESP32 Sensor Node&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;C/C++, FreeRTOS, MQTT&lt;/td&gt;
+&lt;td&gt;Multi-sensor monitoring and data transmission&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a class="link" href="https://github.com/daavidruizz/PioTGuard_Server" target="_blank" rel="noopener"
+&gt;Raspberry Pi Server&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Apache, MariaDB, GStreamer, SSL/TLS&lt;/td&gt;
+&lt;td&gt;Video streaming, recording, and data processing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a class="link" href="https://github.com/daavidruizz/PioTGuardApp" target="_blank" rel="noopener"
+&gt;Android Mobile App&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Java/Kotlin, Android SDK&lt;/td&gt;
+&lt;td&gt;System configuration, monitoring, and notifications&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Security Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;SSL/TLS Encryption&lt;/strong&gt; - All communications encrypted&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mutual TLS (mTLS)&lt;/strong&gt; - Bidirectional authentication between client and server&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Secure MQTT&lt;/strong&gt; - Encrypted sensor data transmission&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sensor Capabilities:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Presence Detection&lt;/strong&gt; - Movement monitoring in specific areas&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Magnetic Sensors&lt;/strong&gt; - Door/window opening control&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gas/Smoke Detection&lt;/strong&gt; - Early fire and gas leak detection&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Real-time Video&lt;/strong&gt; - Continuous streaming with event-triggered recording&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Mobile Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Real-time system monitoring and configuration&lt;/li&gt;
+&lt;li&gt;Event history with associated video recordings&lt;/li&gt;
+&lt;li&gt;Push notifications for anomaly detection&lt;/li&gt;
+&lt;li&gt;Secure authenticated access&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a class="link" href="https://github.com/daavidruizz/PioTGuard-Sensors/blob/main/TFG_PIOTGUARD.pdf" target="_blank" rel="noopener"
+&gt;Download Complete Documentation (PDF)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technologies Used:&lt;/strong&gt; Raspberry Pi, ESP32, Android, MQTT, Apache, SSL/TLS, mTLS, GStreamer, MariaDB, IoT, FreeRTOS&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="other-projects"&gt;Other Projects:
+&lt;/h2&gt;</description></item></channel></rss>
