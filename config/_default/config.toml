@@ -1,7 +1,7 @@
 # Change baseurl before deploy
 baseurl = "https://daavidruizz.github.io/"
 languageCode = "en-us"
-title = "David Ruiz Portfolio"
+title = "David Ruiz"
 
 # Theme i18n support
 # Available values: en, es
