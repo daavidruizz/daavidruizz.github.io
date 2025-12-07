@@ -67,9 +67,10 @@ My adventure in technology began during my studies at the University of Málaga,
 ### Core Programming Languages
 
 - **C/C++** - Advanced level.
-- **Java** - Object-oriented programming and enterprise applications
-- **Bash** - Linux/Unix system administration and automation
-- **Python** - Dcripting
+- **Java** - Object-oriented programming and enterprise applications.
+- **Bash** - Linux/Unix system administration and automation.
+- **SQL** - Experience on DB, SQL queries.
+- **Python** - Scripting.
 
 ### Embedded Systems & Hardware
 
