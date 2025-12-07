@@ -3,29 +3,13 @@ title: My Repositories
 description: A collection of my open source projects and contributions
 slug: repositories
 links:
-  - title: Project Alpha
-    description: A modern web application built with React and Node.js. Features real-time data synchronization and responsive design.
-    website: https://github.com/yourusername/project-alpha
+  - title: Telegram Bot
+    description: Telegram Bot developed with C++ and TDLib, used for manage and download files, adding ideas.
+    website: https://github.com/daavidruizz/TelegramBotCpp
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: Data Analytics Tool
-    description: Python-based data analysis toolkit with machine learning capabilities. Includes data visualization and statistical modeling.
-    website: https://github.com/yourusername/data-analytics-tool
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: Mobile App Backend
-    description: RESTful API backend for mobile applications. Built with Express.js, MongoDB, and JWT authentication.
-    website: https://github.com/yourusername/mobile-backend
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: CSS Framework
-    description: Lightweight, responsive CSS framework for rapid prototyping. Includes grid system and component library.
-    website: https://github.com/yourusername/css-framework
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: Automation Scripts
-    description: Collection of useful automation scripts for development workflow. Includes deployment, testing, and monitoring tools.
-    website: https://github.com/yourusername/automation-scripts
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: Open Source Contribution
-    description: Major contributions to popular open source project. Implemented new features and fixed critical bugs.
-    website: https://github.com/opensource-project/main-repo
+  - title: rzLogger
+    description: Portable, simple, and thread-safe logger for C/C++ projects.
+    website: https://github.com/daavidruizz/rzLogger
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
     main: 
@@ -37,20 +21,49 @@ comments: false
 
 # My GitHub Repositories
 
-Welcome to my code portfolio! Here you'll find a selection of my most notable projects, ranging from web applications to data analysis tools. Each repository represents different aspects of my development journey and technical expertise.
+Welcome to my code portfolio! Here you'll find a selection of my most notable projects, ranging from embedded systems to utility tools.
 
-## 🚀 Featured Projects
+## Featured Project: PioTGuard IoT Surveillance System
 
-These repositories showcase my skills in various technologies and programming languages. Feel free to explore the code, star the projects you find interesting, and don't hesitate to reach out if you have any questions or suggestions.
+### Final Degree Project - Complete Security Monitoring Solution (UMA)
 
-## 🤝 Open Source Contributions
+This comprehensive surveillance system demonstrates end-to-end IoT development, combining embedded systems, server infrastructure, and mobile applications for real-time security monitoring.
 
-I believe in giving back to the developer community through open source contributions. You'll find both my personal projects and contributions to established open source projects listed above.
+**System Overview:**
+A complete security monitoring solution designed for restaurants and commercial spaces, offering protection against both external threats and internal risks through intelligent sensor monitoring and real-time video surveillance.
 
-## 📫 Get In Touch
+**System Components:**
 
-If you're interested in collaborating on any of these projects or have ideas for new ones, feel free to reach out through GitHub issues or direct contact.
+| Component | Technology Stack | Functionality |
+|-----------|------------------|---------------|
+| **[ESP32 Sensor Node](https://github.com/daavidruizz/PioTGuard-Sensors)** | C/C++, FreeRTOS, MQTT | Multi-sensor monitoring and data transmission |
+| **[Raspberry Pi Server](https://github.com/daavidruizz/PioTGuard_Server)** | Apache, MariaDB, GStreamer, SSL/TLS | Video streaming, recording, and data processing |
+| **[Android Mobile App](https://github.com/daavidruizz/PioTGuardApp)** | Java/Kotlin, Android SDK | System configuration, monitoring, and notifications |
+
+**Security Features:**
+
+- **SSL/TLS Encryption** - All communications encrypted
+- **Mutual TLS (mTLS)** - Bidirectional authentication between client and server
+- **Secure MQTT** - Encrypted sensor data transmission
+
+**Sensor Capabilities:**
+
+- **Presence Detection** - Movement monitoring in specific areas
+- **Magnetic Sensors** - Door/window opening control
+- **Gas/Smoke Detection** - Early fire and gas leak detection
+- **Real-time Video** - Continuous streaming with event-triggered recording
+
+**Mobile Features:**
+
+- Real-time system monitoring and configuration
+- Event history with associated video recordings
+- Push notifications for anomaly detection
+- Secure authenticated access
+
+**📄 [Download Complete Documentation (PDF)](https://github.com/daavidruizz/PioTGuard-Docs/raw/main/PioTGuard-Documentation.pdf)**
+
+**🏆 Technologies Used:** Raspberry Pi, ESP32, Android, MQTT, Apache, SSL/TLS, mTLS, GStreamer, MariaDB, IoT, FreeRTOS
 
 ---
 
-*Note: All repositories are publicly available on GitHub. Click on any project above to view the source code, documentation, and live demos where available.*
+## 🚀 Other Projects

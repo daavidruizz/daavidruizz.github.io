@@ -3,7 +3,7 @@ title: About Me
 description: Learn more about my background, skills, and professional journey
 slug: about
 date: 2024-12-07
-image: profile.jpg
+image: assets/img/linux.jpeg
 menu:
     main: 
         weight: 2
@@ -12,67 +12,95 @@ menu:
 comments: false
 ---
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm David Ruiz
 
-## Who I Am
+**Passionate about Linux, C, firmware development, and continuously learning new technologies.**
 
-I'm a passionate **Full Stack Developer** with [X years] of experience creating digital solutions that make a difference. I love turning complex problems into simple, beautiful, and intuitive designs.
+Computer Engineer graduated from the University of Málaga (2024). I have solid experience in programming, with a strong focus on languages like C and C++, which I have worked with consistently throughout my studies and in my current professional role. Additionally, I am proficient in other languages such as Python, Java, and JavaScript.
+
+I am highly familiar with Linux/Unix systems and Bash scripting, and I have a strong interest in embedded systems development, firmware design, and IoT solutions. I have hands-on experience with TCP-based protocols like MQTT and have worked with FreeRTOS, along with other platforms and technologies such as Apache, MySQL, and Android development.
+
+Beyond my technical expertise, I am a highly sociable and collaborative individual who thrives in team environments and enjoys tackling complex challenges through innovative solutions.
+
+**Currently exploring**: Advanced embedded systems, open-source contributions, and emerging IoT technologies.
 
 ## My Journey
 
-My adventure in technology began [when/how you started], and since then, I've been constantly learning and evolving. What started as curiosity about how websites work has grown into a comprehensive understanding of modern web technologies and software development principles.
+My adventure in technology began during my studies at the University of Málaga, where I discovered my passion for embedded systems and low-level programming. What started as curiosity about how hardware and software interact has grown into comprehensive expertise in system-level development.
 
 ### Background
-- 🎓 **Education:** [Your degree/certification]
-- 📍 **Location:** [Your location]
-- 💼 **Current Role:** [Your current position]
-- 🌱 **Currently Learning:** [What you're studying now]
+
+- **Education:** Computer Engineering, University of Málaga (2019-2024)
+- **Location:** Málaga, Andalusia, Spain
+- **Current Role:** Software Engineer at Minsait (June 2024 - Present)
+- **Currently Learning:** Advanced embedded systems, open-source contributions, and emerging IoT technologies
+- **Languages:** Spanish (Native), English (B1 - Cambridge Certified)
+
+## Professional Experience
+
+### Software Engineer @ Minsait
+
+**June 2024 - Present** | Full-time | Hybrid | Málaga, Spain
+
+- Software development with focus on Linux environments
+- Embedded systems programming using C/C++
+- Team collaboration on complex technical projects
+
+### Intern @ Minsait
+
+**April 2024 - June 2024** | Internship | Málaga, Spain
+
+- Software development and team collaboration
+- Practical application of university knowledge in real projects
+- Transition to full-time role upon successful completion
+
+### Intern @ VisionTIR
+
+**July 2022 - October 2022** | Internship | Málaga, Spain
+
+- Embedded software development
+- Hardware-software integration projects
+- Experience with embedded systems and IoT solutions
 
 ## Technical Skills
 
-### Languages & Frameworks
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Vue.js, Angular
-- **Backend:** Node.js, Python, PHP, Express.js, Django, Laravel
-- **Mobile:** React Native, Flutter
-- **Database:** MySQL, PostgreSQL, MongoDB, Firebase
+### Core Programming Languages
 
-### Tools & Technologies
-- **Version Control:** Git, GitHub, GitLab
-- **Cloud Services:** AWS, Google Cloud, Azure
-- **DevOps:** Docker, Kubernetes, CI/CD pipelines
-- **Design:** Figma, Adobe XD, Sketch
-- **Testing:** Jest, Cypress, PHPUnit
+- **C/C++** - Advanced level.
+- **Java** - Object-oriented programming and enterprise applications
+- **Bash** - Linux/Unix system administration and automation
+- **Python** - Dcripting
 
-## What Drives Me
+### Embedded Systems & Hardware
 
-I believe technology should be accessible, inclusive, and human-centered. My approach to development focuses on:
+- **Embedded Systems** - Firmware development and hardware integration
 
-- 🎯 **User Experience:** Creating intuitive interfaces that users love
-- 🔧 **Clean Code:** Writing maintainable, scalable, and well-documented code
-- 🚀 **Performance:** Optimizing for speed and efficiency
-- 🌍 **Accessibility:** Building inclusive digital experiences
-- 📚 **Continuous Learning:** Staying updated with the latest technologies
+- **FreeRTOS** - Real-time operating system for microcontrollers
+- **IoT Solutions** - Connected device development
+- **MQTT Protocol** - TCP-based communication for IoT devices
 
-## Beyond Code
+### Systems & Tools
 
-When I'm not coding, you can find me:
+- **Linux/Unix** - System administration and development
+- **Version Control** - Git, GitHub, Subversion
+- **Databases** - MySQL, experience with data management
+- **Web Technologies** - Apache server configuration
+- **Android** - Mobile application development basics
 
-- 📖 Reading tech blogs and staying current with industry trends
-- 🎮 Gaming and exploring interactive digital experiences
-- 🌮 Experimenting with new recipes in the kitchen
-- 🚴‍♂️ Cycling and exploring the outdoors
-- 📷 Photography, capturing moments and inspiration
-- 🎵 Listening to music or playing [instrument]
+### Development Practices
+
+- **Software Development** - Full development lifecycle experience
+- **Team Collaboration** - Strong teamwork and communication skills
+- **Problem Solving** - Analytical approach to complex technical challenges
+- **Clean Code** - Writing maintainable, scalable, and well-documented code
+
 
 ## Let's Connect!
 
-I'm always excited to meet fellow developers, discuss new projects, or explore collaboration opportunities. Whether you want to talk about the latest JavaScript framework, share a cool project idea, or just say hello, I'd love to hear from you!
-
-- 💼 **LinkedIn:** [Your LinkedIn]
-- 🐦 **Twitter:** [Your Twitter]
-- 📧 **Email:** [Your Email]
-- 🌐 **Website:** [Your Website]
+- **LinkedIn:** [linkedin.com/in/david-ruiz-luque](https://linkedin.com/in/david-ruiz-luque)
+- **Location:** Málaga, Spain
+- **Currently:** Software Engineer at Minsait
 
 ---
 
-> *"The best way to predict the future is to create it."* - This quote drives my passion for building solutions that can make tomorrow better than today.
+> *"The best way to predict the future is to create it."*
