@@ -1,4 +1,6 @@
 ---
+title: Home
+layout: "homepage" 
 menu:
     main:
         name: Home

@@ -2,6 +2,7 @@
 title: My Repositories
 description: A collection of my open source projects and contributions
 slug: repositories
+layout: "page" 
 links:
   - title: Telegram Bot
     description: Telegram Bot developed with C++ and TDLib, used for manage and download files, adding ideas.

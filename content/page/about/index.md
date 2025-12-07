@@ -3,6 +3,7 @@ title: About Me
 description:
 slug: about
 date: 2024-12-07
+layout: "page"
 menu:
     main: 
         weight: 2
